@@ -39,7 +39,8 @@ ALTER TABLE Player RENAME COLUMN PId TO PlayerId
 EXERCISE-9
 ALTER TABLE PLAYER MODIFY PName VARCHAR(20)
 ------------------------------------------------------------------
-==================================================================================
+___________________________________________________________________________________________________________________
+                                        
 ASSIGNMENT-2
  CREATE TABLE Shopper(Shopperid INTEGER PRIMARY KEY,
 ShopperName VARCHAR2(20) NOT NULL,
